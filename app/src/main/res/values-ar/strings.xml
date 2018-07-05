@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Furniture Shop</string>
+    <string name="local">ar</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="checkout">الدفع</string>
+    <string name="total_price">السعر الكلي</string>
+    <string name="minimum_order_amount">الحد الأدنى للطلب</string>
+    <string name="cart">عربة التسوق</string>
+</resources>

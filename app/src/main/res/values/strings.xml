@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FurnitureShop</string>
+    <string name="local">en</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="checkout">Check Out</string>
+    <string name="total_price">Total Price</string>
+    <string name="minimum_order_amount">Minimum Order Amount</string>
+    <string name="cart">Cart</string>
+</resources>
